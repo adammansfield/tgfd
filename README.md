@@ -25,33 +25,33 @@ Source: https://wiki.dbpedia.org/
 #### 2.1.1 DBpedia Schema
 
 **Vertices:**
-Type             | Attributes
----------------- | ----------
-academicjournal  | publisher
-airline          | name
-airport          | name
-album            | name
-artwork          | name
-band             | name
-bank             | name
-basketballplayer | name
-basketballteam   | name
-book             | name
-city             | name
-company          | name
-country          | name
-currency         | name
-hospital         | name
-judge            | name
-murderer         | name
-museum           | name
-musicalartist    | name
-musicgenre       | name
-politicalparty   | name
-primeminister    | name
-publisher        | name
-recordlabel      | name
-university       | name
+| Type             | Attributes |
+| :--------------- | :--------- |
+| academicjournal  | publisher  |
+| airline          | name       |
+| airport          | name       |
+| album            | name       |
+| artwork          | name       |
+| band             | name       |
+| bank             | name       |
+| basketballplayer | name       |
+| basketballteam   | name       |
+| book             | name       |
+| city             | name       |
+| company          | name       |
+| country          | name       |
+| currency         | name       |
+| hospital         | name       |
+| judge            | name       |
+| murderer         | name       |
+| museum           | name       |
+| musicalartist    | name       |
+| musicgenre       | name       |
+| politicalparty   | name       |
+| primeminister    | name       |
+| publisher        | name       |
+| recordlabel      | name       |
+| university       | name       |
 
 
 **Edges:**
@@ -157,3 +157,4 @@ delta#0#365#1
 ! TODO: add dependencies [2021-03-19] [@adammansfield]
 ! TODO: add examples [2021-03-19] [@adammansfield]
 ```
+
